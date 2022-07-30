@@ -2,6 +2,7 @@
  using Unity and c#
  
 Easy difficulty has the AI choose a tile at random to mark.
+
 Hard difficulty involves a MiniMax algorithm, that checks which outcome is the best (and applies a bit of randomization to it, to make it easier for the player) and picks that spot.
 
 ## Video Walkthrough
